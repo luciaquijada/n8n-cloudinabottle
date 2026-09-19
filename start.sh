@@ -20,6 +20,7 @@ rm "$N8N_USER_FOLDER/.n8n/.write-test"
 export N8N_PORT=5678
 export N8N_LISTEN_ADDRESS=0.0.0.0
 export N8N_PROTOCOL=http
+export N8N_SECURE_COOKIE=false
 export GENERIC_TIMEZONE=Europe/Madrid
 export TZ=Europe/Madrid
 
