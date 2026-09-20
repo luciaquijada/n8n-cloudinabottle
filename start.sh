@@ -23,6 +23,7 @@ export N8N_PROTOCOL=http
 export N8N_SECURE_COOKIE=false
 export GENERIC_TIMEZONE=Europe/Madrid
 export TZ=Europe/Madrid
+export N8N_EDITOR_BASE_URL=http://127.0.0.1:5678
 
 export N8N_DIAGNOSTICS_ENABLED=false
 export N8N_VERSION_NOTIFICATIONS_ENABLED=false
